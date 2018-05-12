@@ -1,10 +1,16 @@
 _repo: Barney-Blake-The-Boy-Privateer-or-The-Cruise-of-the-Queer-Fish_47290
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47290-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnstone, Herrick
     gutenberg_agent_id: '44238'
     url: http://www.gutenberg.org/2009/agents/44238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47290#Barney-Blake-The-Boy-Privateer-or-The-Cruise-of-the-Queer-Fish
 gutenberg_issued: '2014-11-05'
 gutenberg_type: Text
 identifiers:
